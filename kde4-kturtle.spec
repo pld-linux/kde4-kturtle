@@ -2,7 +2,7 @@
 %define		orgname		kturtle
 
 Summary:	K Desktop Environment - A Logo interpreter
-Summary(pl_PL.UTF8):	K Desktop Environment - Interpreter języka Logo
+Summary(pl.UTF-8):	K Desktop Environment - Interpreter języka Logo
 Name:		kde4-kturtle
 Version:	4.9.1
 Release:	1
