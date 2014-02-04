@@ -4,12 +4,12 @@
 Summary:	K Desktop Environment - A Logo interpreter
 Summary(pl.UTF-8):	K Desktop Environment - Interpreter języka Logo
 Name:		kde4-kturtle
-Version:	4.12.1
+Version:	4.12.2
 Release:	1
 License:	GPL
 Group:		X11/Applications/Science
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	5840fb432ccea8ac1ede5ad87e2cee0e
+# Source0-md5:	fcb982b2b538bea0052c08a5d58ea3f9
 URL:		http://www.kde.org/
 BuildRequires:	kde4-kdelibs-devel >= %{version}
 Obsoletes:	kde4-kdeedu-kturtle < 4.6.99
